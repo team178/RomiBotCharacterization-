@@ -5,6 +5,8 @@ This project allows the [frc-characterization](https://github.com/wpilibsuite/fr
 
 Note that the encoder data that gets sent to frc-characterization is in terms of wheel rotations (and not distance traveled).
 
+See following slide show for instructions - https://docs.google.com/presentation/d/1nE6QUapu8g2eKjhgsheDkTuXqY2Bvh2V2ds_vDtuSh4/edit?usp=sharing 
+
 ### Usage with frc-characterization
 
 #### Step 1
